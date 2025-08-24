@@ -72,11 +72,7 @@ def exibir_tela_programa_principal():
 
         
         else:
-            print("Opção inválida. Tente novamente.")
-
-        
-
-
+            print("Opção inválida. Tente novamente.")   
 
 
 if __name__ == "__main__":
