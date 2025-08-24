@@ -1,0 +1,6 @@
+py -m venv .venv #Criar .venv (Ambiente virtual)
+
+Um ambiente virtual Python é um contêiner isolado para um projeto, contendo seu próprio interpretador Python e um conjunto específico de bibliotecas e pacotes, separados da instalação global do Python e de outros projetos. Isso permite que diferentes projetos usem versões distintas de bibliotecas sem conflitos de dependências, garantindo um ambiente de desenvolvimento organizado, controlável e reproduzível, sendo o módulo venv a ferramenta padrão para criá-los.
+
+.\.venv\Scripts\activate #Ativar
+.\.venv\Scripts\desactivate #Desativar
